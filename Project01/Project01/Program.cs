@@ -7,6 +7,7 @@ namespace Project01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, my name is Truong Anh Thanh");
+            Console.WriteLine("Hello, my name is Truong Anh Thanh");
         }
     }
 }
